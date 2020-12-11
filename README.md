@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Develop Add-Ins for Autodesk Revit :construction_worker::woman_factory_worker:
+### Develop Add-Ins for Autodesk Revit :construction_worker::woman_factory_worker::building_construction:
 * .NET(C#)
 * WPF (MVVM pattern)
