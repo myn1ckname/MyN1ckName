@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Develop Add-Ins for Autodesk Revit :woman_factory_worker::building_construction::construction_worker:
-* .NET(C#)
+* .NET (C#)
 * WPF (MVVM pattern)
