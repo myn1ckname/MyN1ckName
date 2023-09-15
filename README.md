@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### .NET Backend Developer
-* .NET (C#) :technologist:
-* Docker :spouting_whale:
-* xUnit Fluent Assertions :test_tube:
-* RabbitMQ :open_mailbox_with_raised_flag:
+* .NET (C#) 🧑‍💻
+* Docker 🐳
+* xUnit Fluent Assertions 🧪
+* RabbitMQ 📬
