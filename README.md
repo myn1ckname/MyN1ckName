@@ -12,10 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Develop Add-Ins for Autodesk Revit :woman_factory_worker::building_construction::construction_worker:
-* .NET (C#)
-* WPF (MVVM pattern)
-### .NET Backend Developer 👨‍💻:hammer_and_wrench::rocket:
-* .NET (C#)
-* ABP Framework
-* Docker
+### .NET Backend Developer
+* .NET (C#) :technologist:
+* Docker :spouting_whale:
+* xUnit Fluent Assertions :test_tube:
+* RabbitMQ :open_mailbox_with_raised_flag:
