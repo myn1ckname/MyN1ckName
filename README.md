@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 ### .NET Backend Developer
 - 🧑‍💻 .NET (C#)
 - 🐳 Docker
-- 🧪 xUnit and FluentAssertions
+- 🧪 xUnit
 - 📬 RabbitMQ
